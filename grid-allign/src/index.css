@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background-color: #282a36;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 15px;
+  color: #f8f8f2;
+}
+
+input {
+  margin-left: 5px;
+  padding: 0.625rem;
+  background-color: #282a36;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: #f8f8f2;
+  border-radius: 0.5rem;
+  border-width: 1px;
+  border-color: #f8f8f2;
+}
