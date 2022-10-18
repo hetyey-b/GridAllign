@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/grid_align/static/css/main.5103668b.css",
-    "main.js": "/grid_align/static/js/main.248ba3dc.js",
-    "static/js/787.3e485c4b.chunk.js": "/grid_align/static/js/787.3e485c4b.chunk.js",
-    "index.html": "/grid_align/index.html",
-    "main.5103668b.css.map": "/grid_align/static/css/main.5103668b.css.map",
-    "main.248ba3dc.js.map": "/grid_align/static/js/main.248ba3dc.js.map",
-    "787.3e485c4b.chunk.js.map": "/grid_align/static/js/787.3e485c4b.chunk.js.map"
+    "main.css": "/GridAllign/static/css/main.5103668b.css",
+    "main.js": "/GridAllign/static/js/main.eeb44ccc.js",
+    "static/js/787.3e485c4b.chunk.js": "/GridAllign/static/js/787.3e485c4b.chunk.js",
+    "index.html": "/GridAllign/index.html",
+    "main.5103668b.css.map": "/GridAllign/static/css/main.5103668b.css.map",
+    "main.eeb44ccc.js.map": "/GridAllign/static/js/main.eeb44ccc.js.map",
+    "787.3e485c4b.chunk.js.map": "/GridAllign/static/js/787.3e485c4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5103668b.css",
-    "static/js/main.248ba3dc.js"
+    "static/js/main.eeb44ccc.js"
   ]
 }
